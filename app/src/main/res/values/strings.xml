@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Float AI</string>
+    <string name="accessibility_service_description">Reads active social media post text on-screen when triggered to generate smart AI explanations and reply suggestions.</string>
+    <string name="accessibility_service_summary">Extracts visible post captions and comments for instant AI reply generation.</string>
+    <string name="floating_service_notification_title">Social Float AI is Active</string>
+    <string name="floating_service_notification_text">Floating button ready. Tap the floating icon on any social media app to analyze posts.</string>
+    <string name="notification_channel_name">Social Float Overlay Service</string>
+    <string name="notification_channel_desc">Shows ongoing notification while the floating button is active.</string>
+</resources>

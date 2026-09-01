@@ -1,0 +1,6 @@
+{
+  "name": "Social Float AI",
+  "description": "Floating social media AI utility to analyze posts and generate engaging reply comments with a single tap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
